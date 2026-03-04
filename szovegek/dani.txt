@@ -1,3 +1,4 @@
+3
 -Meséljen kicsit magáról. Maga egy bencés szerzetes igaz?
 -Igen, egy bencés szerzetes vagyok. Hajnalban szoktunk kellni, imádkozással kezdjük a napot. 20 éve vagyok a szerzetesi rendben, tisztaságot, engedelmességet és szegénységet fogadva. 
 -És milyenek az ünnepnapok? van külömbség a hétköznap és az ünnepnap között?
@@ -5,6 +6,7 @@
 -Van bármilyen szabadidejük?
 -Van. Olyankor olvashatok néhány levelet, kéziratot másolok, vagy esetleg kertet gondozok.
 
+4
 -Térjünk egy kicsit át a munka részére. Mit dolgoznak? Milyen feladata van egy bencés szerzetesnek?
 -Jó kérdés. Az én feladatom a kodexek másolása a scriptoriumban, de más szerzetes társaim tanítanak vagy gyógynövényt termelnek.
 -És ki a főnökük? van egyáltalán vezető a szerzetesek közt?
@@ -13,3 +15,23 @@
 -Igen, a tanulók akik a kolostorba jönnek.
 -És a környékbeliek m it szólnak a jelenlétükhöz?
 -Vegyes véleményeket hallok innen-onnan. Nagyon sok környékbeli lakónak segítek lelki gondozással, és van aki hálás a jelenlétünkért, de va aki viszont nem szívesen lát minket akár a környéken is. 
+
+5
+-Milyen ünnepket szoktak tartani? Egyáltalán szoktak maguk ünnepelni?
+-Szoktunk. A legfontosabb ünnepeink nyilvánvalóan a vallásos ünnepek, a karácsony, a húsvét és a pünkösd.
+-Mit szoktak ezeken a napokon csinálni?
+-Ünnepélyes misén veszünk részt, és együtt éneklünk.
+-mitől olyan fontosak ezek?
+-Megerősítik az Isten iránti szeretetünket és a hitünket.
+
+7
+-Milyen viselkedésformát kell követniük?
+-Alázatosnak kell lennünk. A dicsekvést kerüljük, ha valamiben jobbak vagyunk, akkor azt nem adjuk mások tudtára szavakkal vagy tettekkel.A közösségünk érdekeit kell néznünk, az egyéni vágyakat pedig elengednünk.
+-Az emberek között milyen kapcsolat van? Milyen a közösség?
+-A vezetőnk a mélyen tisztelt apát. Ő lelki és gyakorleti vezető. Tisztelnünk és engedelmeskednünk kell neki. Mindannyian testvérként élünk együtt, és egy közös célunk van: Isten szolgálata.
+
+8
+-Beszélne nekünk egy kicsit a szabályokról?
+-Persze. Az életünk irányítója a Szent Benedek által alkotott regula, amit a VII. században írt. Ez egy részletes útmutató vagy szabálykönyv, amely életünk minden részét megszabja, mint például a napirendet, az imák rendjét, étkezést vagy a fegyelmet.
+-ha jól tudomm vannak úgynevezett "csendesebb idők". Kifejtené hogy ez hogy is néz ki?
+-Vannak olyan Halgatási időszakok, amikor nem beszélünk egymással. ilyenkor főleg az elmélkedésre koncentrálunk, a saját gondolatainkal. Az étkezéseint ígyis közösen zajlanak, és néha felolvasás is van.
