@@ -6,10 +6,12 @@ font-family: sans-serif;
 text-align: center;
 }
 img{
-    padding: 100px;
-    width: 400px;
-
-
+    width: 300px;
+    height: auto;
+}
+#boritokep{
+    width: 100%;
+    height: auto;
 }
 
 }
