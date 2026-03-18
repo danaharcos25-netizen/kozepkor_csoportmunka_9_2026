@@ -8,10 +8,14 @@ text-align: center;
 img{
     width: 300px;
     height: auto;
+    margin: auto;
+    padding: auto;
+
 }
 #boritokep{
     width: 100%;
     height: auto;
+    
 }
 
 }
