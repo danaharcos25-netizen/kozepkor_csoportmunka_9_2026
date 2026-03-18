@@ -5,7 +5,7 @@ font-style: italic;
 }
 header{
   text-align: center;
-  margin-bottom: 1rem;
+ 
   
 }
 nav {
@@ -13,7 +13,7 @@ nav {
   margin-bottom: 1rem;
   color: black;
   text-decoration: none;
-  
+
 }
 article {
   margin-bottom: 1rem;
@@ -30,9 +30,9 @@ footer {
 }
 img{
     width: 300px;
-    height: auto;
+  
 }
 #boritokep{
     width: 100%;
-    height: auto;
+
 }
