@@ -1,0 +1,36 @@
+body{font-family: fantasy;
+background-color: antiquewhite;
+letter-spacing: normal;
+font-style: italic;
+}
+header{
+  text-align: center;
+  margin-bottom: 1rem;
+  
+}
+nav {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: black;
+}
+article {
+  margin-bottom: 1rem;
+}
+footer {
+  text-align: center;
+  margin-top: 1rem;
+}
+.idovonalbejegyzes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    border: 10px solid black;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+#boritokep{
+    width: 100%;
+    height: auto;
+}
