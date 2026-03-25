@@ -1,21 +1,15 @@
 .bejegyzes {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr ;
   gap: 1rem;
   border: 10px solid black;
 }
-@media screen and (max-width:600px) {
-  body{
-        display: grid;
-        grid-template-columns: 100%;
-    
-    }
-    head{
-          display: grid;
-        grid-template-columns: 100%;
-    
-    }
-
+@media screen and (max-width: 765px) {
+  .idovonalbejegyzes {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    border-width: 2px; 
+  }
 }
     
 

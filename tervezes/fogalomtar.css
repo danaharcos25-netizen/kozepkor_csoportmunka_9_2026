@@ -6,7 +6,8 @@ article {
   grid-template-columns: 1fr 1fr;
 }
 .fogalom {
-  border: 20px black;
+  border: 5px solid black;
   border-color: black;
   border-radius: 10px;
+  padding: 10px;
 }

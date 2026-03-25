@@ -4,6 +4,11 @@ body {
   letter-spacing: normal;
   font-style: italic;
   color: rgb(212, 212, 212);
+
+}
+main{
+  max-width: 1000px;
+  margin: auto;
 }
 header {
   text-align: center;
@@ -28,16 +33,29 @@ img {
 #boritokep {
   width: 100%;
 }
+a{
+  color: antiquewhite;
+  text-decoration: none;
+}
+a:hover{
+  color: blue;
+  background-color: aliceblue;
+}
 
-* {
-  max-width: 1000px;
-}
-@media screen and (max-width: 1000px) {
-}
+
+
 
 /* válassz másik betűtípust, ami olvasható
 A címek lehetnek ettől eltérő betűtípussal írva
 
 Az oldal max sélessége 1000px;
 a büngésző közepén helyezkedjen el
+*/
+/*  a mneü formázása::after
+Olvasható színű linkek
+ne legyenek aláhúzva
+
+
+ha a linkek fölé viszem az egeret, akkor változzon meg a háttérszín és a betűszín
+
 */
