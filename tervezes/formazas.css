@@ -1,0 +1,37 @@
+body {
+  font-family: fantasy;
+  background-color: rgb(30, 35, 49);
+  letter-spacing: normal;
+  font-style: italic;
+  color: rgb(212, 212, 212);
+}
+header {
+  text-align: center;
+}
+nav {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: black;
+  text-decoration: none;
+}
+article {
+  margin-bottom: 1rem;
+}
+footer {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+img {
+  width: 300px;
+}
+#boritokep {
+  width: 100%;
+}
+
+/* válassz másik betűtípust, ami olvasható
+A címek lehetnek ettől eltérő betűtípussal írva
+
+Az oldal max sélessége 1000px;
+a büngésző közepén helyezkedjen el
+*/

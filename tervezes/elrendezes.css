@@ -1,0 +1,8 @@
+.bejegyzes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  border: 10px solid black;
+}
+
+/* legyen reszponzív, azaz 765px alatt kerüljenek egymás alá */
