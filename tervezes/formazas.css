@@ -36,11 +36,14 @@ img {
 a{
   color: antiquewhite;
   text-decoration: none;
+  padding: 5px;
+  border: 5px solid white;
 }
 a:hover{
   color: blue;
   background-color: aliceblue;
 }
+
 
 
 
