@@ -1,5 +1,5 @@
 body {
-  font-family: fantasy;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: rgb(30, 35, 49);
   letter-spacing: normal;
   font-style: italic;
@@ -27,6 +27,15 @@ img {
 }
 #boritokep {
   width: 100%;
+}
+
+*{
+    max-width: 1000px;
+    
+}
+@media screen and (max-width:1000px){
+    
+    
 }
 
 /* válassz másik betűtípust, ami olvasható

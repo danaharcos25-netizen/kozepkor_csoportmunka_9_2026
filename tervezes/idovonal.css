@@ -4,5 +4,21 @@
     gap: 1rem;
     border: 10px solid black;
 }
+ @media screen and (max-width:600px) {
+    body {
+        display: grid;
+        grid-template-columns: 100%;
+    
+    }
+    @media screen and (max-width:600px) {
+    head {
+        display: grid;
+        grid-template-columns: 100%;
+    
+    }
+
+}
+
+}
 
 /* legyen reszponzív, azaz 765px alatt kerüljenek egymás alá */
