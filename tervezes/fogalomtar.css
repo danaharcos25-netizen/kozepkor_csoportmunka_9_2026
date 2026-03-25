@@ -1,13 +1,12 @@
 /* Kell egy grid- 
 szülőelem az article, azon belül kell  oszlopos elrendezés
  */
- article{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-   
- }
- .fogalom{    
-    border: 20px black;
-    border-color: black;
-border-radius: 10px;
+article {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.fogalom {
+  border: 20px black;
+  border-color: black;
+  border-radius: 10px;
 }
